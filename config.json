@@ -1,0 +1,8 @@
+{
+  "source_file": "sum_gbk.zpaq",
+  "target_dir": "R:/",
+  "target_filename": "speed_test_pool.dat",
+  "threads": 12,
+  "pool_size_gb": 16,
+  "stats_interval_sec": 5
+}

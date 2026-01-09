@@ -2,5 +2,8 @@
 name = "cyber-prayer"
 version = "0.1.0"
 description = "Add your description here"
-requires-python = ">=3.12"
-dependencies = []
+requires-python = ">=3.13"
+dependencies = [
+    "jieba>=0.42.1",
+    "tqdm>=4.67.1",
+]
